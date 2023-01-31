@@ -1,0 +1,96 @@
+﻿'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+   logtoconsole = 
+FsmIdOnlineService hizmeti yükleniyor...
+FsmIdOnlineService hizmeti başarıyla yüklendi.
+Application günlüğünde FsmIdOnlineService EventLog kaynağı oluşturuluyor...
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+   logtoconsole = 
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+FsmIdOnlineService EventLog kaynağı kaldırılıyor.
+FsmIdOnlineService hizmeti sistemden kaldırılıyor...
+FsmIdOnlineService hizmeti sistemden başarıyla kaldırıldı.
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+   logtoconsole = 
+FsmIdOnlineService hizmeti yükleniyor...
+FsmIdOnlineService hizmeti başarıyla yüklendi.
+Application günlüğünde FsmIdOnlineService EventLog kaynağı oluşturuluyor...
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+   logtoconsole = 
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+FsmIdOnlineService EventLog kaynağı kaldırılıyor.
+FsmIdOnlineService hizmeti sistemden kaldırılıyor...
+FsmIdOnlineService hizmeti sistemden başarıyla kaldırıldı.
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+   logtoconsole = 
+FsmIdOnlineService hizmeti yükleniyor...
+FsmIdOnlineService hizmeti başarıyla yüklendi.
+Application günlüğünde FsmIdOnlineService EventLog kaynağı oluşturuluyor...
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+   logtoconsole = 
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+FsmIdOnlineService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+FsmIdOnlineService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+FsmIdOnlineService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.InstallLog
+   assemblypath = E:\Projects\FsmIdOnlineService\FsmIdOnlineService\FsmIdOnlineService\bin\Debug\FsmIdOnlineService.exe
+FsmIdOnlineService EventLog kaynağı kaldırılıyor.
+FsmIdOnlineService hizmeti sistemden kaldırılıyor...
+FsmIdOnlineService hizmeti sistemden başarıyla kaldırıldı.
